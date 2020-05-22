@@ -21,6 +21,7 @@ const addNote = (title, body) => {
   }
 }
 
+
 const removeNote = title => {
   const notes = loadNotes()
 
